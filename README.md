@@ -32,11 +32,10 @@ This project reads PDF or text resumes, processes them using NLP techniques, ide
 
 ```
 ats-resume-monitor/
-│── resumes/
 │── src/
-│   ├── extract.py
-│   ├── analyze.py
-│   ├── score.py
+│   ├── sample resume.pdf
+│   ├── JobDescription.txt
+│   ├── ats.py
 │── README.md
 │── requirements.txt
 ```
@@ -46,7 +45,7 @@ ats-resume-monitor/
 ##  How to Run
 
 ```bash
-python src/score.py
+python src/ats.py
 ```
 
 ---
