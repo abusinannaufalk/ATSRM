@@ -1,0 +1,19 @@
+We are looking for a Data Scientist to join our analytics team.  
+The candidate should have strong experience in:
+
+- Programming: Python, R, SQL  
+- Machine Learning: Regression, Classification, Clustering, Deep Learning  
+- Natural Language Processing (NLP) and Data Preprocessing  
+- Data Visualization: Power BI, Tableau, Matplotlib, Seaborn  
+- Tools: Git, Excel, Jupyter Notebook  
+
+Responsibilities include:
+- Building predictive models to support business decisions  
+- Performing data analysis and generating insights  
+- Collaborating with cross-functional teams  
+- Deploying ML models into production environments  
+
+Preferred qualifications:
+- B.Tech in Artificial Intelligence, Data Science, or related field  
+- Knowledge of TensorFlow or PyTorch  
+- Internship or project experience in AI/ML  
